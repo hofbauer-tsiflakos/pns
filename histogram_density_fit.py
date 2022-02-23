@@ -1,4 +1,5 @@
 # Michael Hofbauer ~ hofbauer@uab.edu
+
 # Let X ~ N(0,1) and Y = exp(X).
 # We are plotting the pdf
 # f_Y(y) = 1/sqrt(2\pi) exp(-1/2(ln y)^2)1/y
