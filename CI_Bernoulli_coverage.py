@@ -1,3 +1,7 @@
+# Under construction
+
+# Michael Hofbauer ~ hofbauer@uab.edu
+
 # We check for X_1,...,X_n ~ Bernoulli(p),
 # how well the confidence interval
 # (\hat{p}-\eps_n, \hat{p}+\eps_n) obtained from
