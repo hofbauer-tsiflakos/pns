@@ -1,5 +1,6 @@
 # Illustration of the law of large numbers
 # with Bernoulli distributed coin flips.
+
 import random
 import numpy as np
 import matplotlib.pyplot as plt
